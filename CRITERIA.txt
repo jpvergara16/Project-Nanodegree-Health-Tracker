@@ -1,0 +1,15 @@
+Write code required to get a project started
+
+Write code required to add a search bar to the application
+
+Write code required to query a health API when the user searches, and return the results in a list
+
+Write code required to add an item to the data store when clicked
+
+Write code required to show the items in the data store, and to display the total number of calories
+
+Asynchronous Data Usage and Error Handling.
+  All data APIs used in the project should load asynchronously and all errors should be handled gracefully.
+  In case of error (e.g. in a situation where a third party api does not return the expected result) we expect your webpage to do one of the following:
+  A message is displayed notifying the user that the data can't be loaded, OR There are no negative repercussions to the UI.
+  Note: Please note that we expect students to handle errors if the browser has trouble initially reaching the 3rd-party site as well.
