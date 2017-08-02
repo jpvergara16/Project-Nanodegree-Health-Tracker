@@ -16,6 +16,9 @@
 ```
 ```
 ### Build tools/technologies (to be used)
+- [Backbone framework](http://backbonejs.org/)
+- [Nutrionix API](https://www.nutritionix.com/business/api)
+
 ```
 ```
 ### Instructions on how to run
